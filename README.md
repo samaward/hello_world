@@ -1,2 +1,5 @@
 # hello_world
-This is the first test of Github
+Hi humans!
+
+Samaward here, I like web-develop and Python and CSS,
+I spend my time exploring the new methods of wasting time,
